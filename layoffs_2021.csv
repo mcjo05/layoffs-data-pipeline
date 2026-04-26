@@ -1,0 +1,46 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+Delivery Hero,Berlin,Food,300,NULL,12/22/2021,Post-IPO,Germany,8300
+iFit,Logan,Fitness,NULL,NULL,12/8/2021,Private Equity,United States,200
+Better.com,New York City,Real Estate,900,0.09,12/1/2021,Unknown,United States,905
+BitTitan,Seattle,Data,70,0.27,11/18/2021,Acquired,United States,46
+Zillow,Seattle,Real Estate,2000,0.25,11/2/2021,Post-IPO,United States,97
+InVision,New York City,Product,22,NULL,10/5/2021,Unknown,United States,356
+Ozy Media,SF Bay Area,Media,NULL,1,10/1/2021,Series C,United States,70
+Zymergen,SF Bay Area,Other,120,NULL,9/23/2021,Post-IPO,United States,974
+Imperfect Foods,SF Bay Area,Food,NULL,NULL,9/22/2021,Series D,United States,229
+Genius,New York City,Consumer,NULL,NULL,9/15/2021,Acquired,United States,78
+Treehouse,Portland,Education,41,0.9,9/14/2021,Series B,United States,12
+Casper,New York City,Retail,NULL,NULL,9/14/2021,Post-IPO,United States,339
+Tanium,Seattle,Security,30,NULL,8/30/2021,Unknown,United States,1000
+Flockjay,SF Bay Area,Education,37,0.5,8/24/2021,Series A,United States,14
+Bytedance,Shanghai,Consumer,1800,NULL,8/5/2021,Unknown,China,9400
+Pagarbook,Bengaluru,HR,80,NULL,7/26/2021,Series A,India,17
+Katerra,SF Bay Area,Construction,2434,1,6/1/2021,Unknown,United States,1600
+SumUp,London,Finance,NULL,NULL,5/5/2021,Unknown,United Kingdom,53
+Lambda School,SF Bay Area,Education,65,NULL,4/29/2021,Series C,United States,122
+Madefire,SF Bay Area,Media,NULL,1,4/29/2021,Series B,United States,16
+Patreon,SF Bay Area,Media,36,NULL,4/26/2021,Series D,United States,165
+New Relic,SF Bay Area,Infrastructure,160,0.07,4/6/2021,Post-IPO,United States,214.5
+Medium,SF Bay Area,Media,NULL,NULL,3/24/2021,Series C,United States,132
+HuffPo,New York City,Media,47,NULL,3/9/2021,Acquired,United States,37
+Subspace,Los Angeles,Infrastructure,NULL,NULL,3/3/2021,Series B,United States,NULL
+Clumio,SF Bay Area,Data,NULL,NULL,3/1/2021,Series C,United States,186
+DJI,SF Bay Area,Consumer,NULL,NULL,2/24/2021,Unknown,United States,105
+Ninjacart,Bengaluru,Food,200,NULL,2/23/2021,Unknown,India,194
+Bounce,Bengaluru,Transportation,200,0.4,2/22/2021,Series D,India,214.2
+ThredUp,Chicago,Retail,243,NULL,2/9/2021,Series F,United States,305
+Indigo,Boston,Other,80,NULL,2/9/2021,Series F,United States,1200
+Limelight,New York City,Recruiting,13,1,2/4/2021,Unknown,United States,NULL
+Quandoo,Berlin,Food,87,0.2,2/3/2021,Acquired,Germany,39
+Hubba,Toronto,Retail,45,1,2/1/2021,Series B,Canada,61
+Bytedance,Mumbai,Consumer,1800,NULL,1/27/2021,Unknown,India,7400
+Privitar,London,Data,20,NULL,1/27/2021,Series C,United Kingdom,150
+Shutterfly,SF Bay Area,Retail,800,NULL,1/25/2021,Acquired,United States,50
+Postmates,SF Bay Area,Food,180,0.15,1/23/2021,Acquired,United States,763
+Instacart,SF Bay Area,Food,1877,NULL,1/21/2021,Unknown,United States,2400
+Pocketmath,Singapore,Marketing,21,1,1/20/2021,Unknown,Singapore,20
+Dropbox,SF Bay Area,Other,315,0.15,1/13/2021,Post-IPO,United States,1700
+Aura Financial,SF Bay Area,Finance,NULL,1,1/11/2021,Unknown,United States,584
+Simple,Portland,Finance,NULL,1,1/7/2021,Acquired,United States,15
+WhiteHat Jr,Mumbai,Education,1800,NULL,1/6/2021,Acquired,India,11
+Casper,New York City,Retail,NULL,NULL,9/14/2021,Post-IPO,United States,339
